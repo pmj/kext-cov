@@ -1,0 +1,9 @@
+_kmod_info
+_kext_cov_deregister_kext
+_llvm_gcda_start_file
+_llvm_gcda_emit_function
+_llvm_gcda_emit_arcs
+_llvm_gcda_end_file
+_atexit
+_llvm_gcda_increment_indirect_counter
+_llvm_gcov_init
